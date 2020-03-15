@@ -1,0 +1,2 @@
+# indexconfigheader
+dvijok sayta
