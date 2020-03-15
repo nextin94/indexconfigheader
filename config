@@ -1,0 +1,18 @@
+<?php
+
+$host = 'localhost';
+$db_user = 'ivanov2929_codem';
+$db_password = 'Mimikali111';
+$db_name = 'ivanov2929_codem';
+
+$link = mysqli_connect($host, $db_user, $db_password, $db_name);
+mysqli_query($link, "SET NAMES 'utf-8'");
+
+// $add = "INSERT INTO pages (title, url, text) VALUES ('colors', 'colors', 'colors')";
+// mysqli_query($link, $add);
+
+
+
+
+
+?>
